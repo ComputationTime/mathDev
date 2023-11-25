@@ -3,25 +3,14 @@ title: Shortcodes
 description: Useful shortcodes that can be used in Markdown
 date: 2023-08-25 00:00:00+0000
 image: cover.jpg
+draft: true
 ---
 
 For more details, check out the [documentation](https://stack.jimmycai.com/writing/shortcodes).
 
-## Bilibili video
-
-{{< bilibili "BV1d4411N7zD" >}}
-
-## Tencent video
-
-{{< tencent "g0014r3khdw" >}}
-
 ## YouTube video
 
 {{< youtube "0qwALOOvUik" >}}
-
-## Generic video file
-
-{{< video "https://www.w3schools.com/tags/movie.mp4" >}}
 
 ## Gist
 

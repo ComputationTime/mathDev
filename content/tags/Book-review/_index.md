@@ -1,5 +1,5 @@
 ---
-title: Example Category
+title: Book Review
 description: A description of this category
 image: "cover.jpg"
 
